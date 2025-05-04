@@ -1,5 +1,5 @@
 # vba-challenge
- Module Challenge 2: VBA CU Data Analytics
+VBA project with financial data
 
 ## Stan Usovicz 
 ## November, 2024
